@@ -1,2 +1,2 @@
 # cpp
-Supervised learning and dimensionality reduction using OpenCV.
+Tool box for supervised learning and dimensionality reduction using OpenCV.
